@@ -1,2 +1,2 @@
 # Travel-Website
-Example travel website
+Example for static travel website
